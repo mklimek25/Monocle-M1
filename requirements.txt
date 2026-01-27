@@ -1,0 +1,8 @@
+# Python dependencies
+# Add your Python package requirements here
+# Example:
+# numpy>=1.21.0
+# opencv-python>=4.5.0
+
+
+
