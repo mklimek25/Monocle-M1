@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Depth Mapping Project
 
 A project combining Python and C++ for depth mapping functionality.
@@ -109,3 +110,7 @@ depth_mapping/
 - Add C++ source files and update `CMakeLists.txt` accordingly
 - Update `requirements.txt` with Python dependencies as needed
 
+=======
+# Monocle-M1
+An upgraded computer vision camera module
+>>>>>>> 0fe25a2d10051a003123fffdaaf431be7d3b3222
